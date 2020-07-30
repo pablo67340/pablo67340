@@ -34,7 +34,7 @@ Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I a
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xbox.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg"></code>
 
-<br/>
+<br />
 
 **Socials & Links:**  
 
@@ -64,5 +64,9 @@ Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I a
 
 **GitHub Stats:**
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=pablo67340&show_icons=true&hide_border=true&count_private=true" />  
+<br />
+<br />
+<br />  
+
 **Language Stats:**
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo67340&layout=compact" />
