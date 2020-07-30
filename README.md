@@ -62,5 +62,10 @@ Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I a
 
 <br />
 
-![Bryce's github stats](https://github-readme-stats.vercel.app/api?username=pablo67340&show_icons=true&hide_border=true)
+![Bryce's github stats](https://github-readme-stats.vercel.app/api?username=pablo67340&show_icons=true&hide_border=true&count_private=true)
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo67340&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
