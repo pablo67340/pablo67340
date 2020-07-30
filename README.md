@@ -28,7 +28,7 @@ Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I a
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/shopify.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachemaven.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xbox.svg"></code>
