@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I am the Lead Software Engineer at a Digital Marketing Agency in my home town 🙍🏽‍♂️ [@MarketplaceSolutions](https://marketplacesolutions.ca), Freelancer 👨🏽‍💻 [@Portfolio](https://bryces.website/) & Console Modder[@Xbox360Hub](https://discord.gg/xWFJcNv). Aside from programming I have absolutely no talent and love food. If you know where my Avatar is from, we can be good friends :)
+Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I am the Lead Software Engineer at a Digital Marketing Agency in my home town 🙍🏽‍♂️ [@SocialSquared](https://socialsquared.ca), Freelancer 👨🏽‍💻 [@Portfolio](https://bryces.website/) & Console Modder[@Xbox360Hub](https://discord.gg/xWFJcNv). Aside from programming I have absolutely no talent and love food. If you know where my Avatar is from, we can be good friends :)
 
 <img align="right" alt="Meme of the year" src="https://i.imgur.com/v7eDXTh.gif" />
   
