@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I am a Senior Software Engineer at a FinTech Company called 🙍🏽‍♂️ [@Walnut](https://hellowalnut.com), Freelancer 👨🏽‍💻 [@Portfolio](https://bryces.website/) & Console Modder[@Xbox360Hub](https://discord.gg/xWFJcNv). Aside from programming I have absolutely no talent and love food.
+Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I am a Senior Software Engineer at a FinTech Company called 🙍🏽‍♂️ [@Walnut](https://hellowalnut.com), 👨🏽‍💻 [@Portfolio](https://bryces.website/) & Console Modder [@Xbox360Hub](https://discord.gg/xWFJcNv). Aside from programming I have absolutely no talent and love food.
 
 <img align="right" alt="Meme of the year" src="https://i.imgur.com/v7eDXTh.gif" />
   
