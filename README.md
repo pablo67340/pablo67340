@@ -1,8 +1,8 @@
-### Hey there 👋🏽, [pablo67340](https://bryces.website/) here... welcome to my profile page!
+### Hey there 👋🏽, [pablo67340](https://bryces.site/) here... welcome to my profile page!
 
 <br />
 
-Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I am a Senior Software Engineer at a FinTech Company called 🙍🏽‍♂️ [@Walnut](https://hellowalnut.com), 👨🏽‍💻 [@Portfolio](https://bryces.website/) & Console Modder [@Xbox360Hub](https://discord.gg/xWFJcNv). Aside from programming I have absolutely no talent and love food.
+Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I am a Senior Software Engineer at a FinTech Company called 🙍🏽‍♂️ [@Walnut](https://hellowalnut.com), 👨🏽‍💻 [@Portfolio](https://bryces.website/) & Console Modder [@Xbox360Hub](https://discord.gg/xWFJcNv). Aside from programming, I love food, adventures and nature.
 
 <img align="right" alt="Meme of the year" src="https://i.imgur.com/v7eDXTh.gif" />
   
@@ -54,10 +54,10 @@ Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I a
   <img align="left" alt="Bryce's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <a href="https://www.mc-market.org/members/3801/">
-  <img align="left" alt="Bryce's MC-Market" width="22px" src="https://bryces.website/projects/images/icons/mcm.png" />
+  <img align="left" alt="Bryce's MC-Market" width="22px" src="https://bryces.site/projects/images/icons/mcm.png" />
 </a>
 <a href="https://www.spigotmc.org/members/pablo67340.35244/">
-  <img align="left" alt="Bryce's Spigot" width="22px" src="https://bryces.website/projects/images/icons/spigot.png" />
+  <img align="left" alt="Bryce's Spigot" width="22px" src="https://bryces.site/projects/images/icons/spigot.png" />
 </a>
 
 <br />
