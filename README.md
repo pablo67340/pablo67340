@@ -14,7 +14,7 @@ Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I a
 - 🤔 I’m looking for help with Reverse Engineering & Exploit Testing;
 - 💬 Have a question? Ask me anytime through Discord;
 - ⚡️ Fun-Fact about me: I began programming when I was 11 years old using Java, now my Minecraft plugins total over **800,000+** downloads;
-- 📫 How to reach me: pablo67340@gmail.com, or Bryce#0001;
+- 📫 How to reach me: pablo67340@gmail.com, or @vajoner on Discord;
 - 📝[LinkedIn](https://www.linkedin.com/in/wilkinsonbryce/)
 
 **Languages and Tools:**  
@@ -45,7 +45,7 @@ Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I a
   <img align="left" alt="Bryce Wilkinson | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/wilkinsonbryce/">
-  <img align="left" alt="Bryces Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Bryces Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/bryce_wilkinson98/">
   <img align="left" alt="Bryce's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
