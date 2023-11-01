@@ -13,7 +13,7 @@ Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I a
 - 👯 I’m looking to collaborate on [GUIShop](https://github.com/pablo67340/GUIShop);
 - 🤔 I’m looking for help with Reverse Engineering & Exploit Testing;
 - 💬 Have a question? Ask me anytime through Discord;
-- ⚡️ Fun-Fact about me: I began programming when I was 11 years old using Java, now my Minecraft plugins total over **800,000+** downloads;
+- ⚡️ Fun-Fact about me: I began programming when I was 11 years old using Java, now my Minecraft plugins total over **900,000+** downloads;
 - 📫 How to reach me: pablo67340@gmail.com, or @vajoner on Discord;
 - 📝[LinkedIn](https://www.linkedin.com/in/wilkinsonbryce/)
 
