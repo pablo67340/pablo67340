@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I am a Senior Software Engineer at a FinTech Company called 🙍🏽‍♂️ [@Walnut](https://hellowalnut.com), 👨🏽‍💻 [@Portfolio](https://bryces.website/) & Console Modder [@Xbox360Hub](https://discord.gg/xWFJcNv). Aside from programming, I love food, adventures and nature.
+Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I am a Senior Software Engineer at a Digital Marketing Agency Company called 🙍🏽‍♂️ [@TheSkylineAgency](https://theskylineagency.com), 👨🏽‍💻 [@Portfolio](https://bryces.site/) & Console Modder [@Xbox360Hub](https://discord.gg/xWFJcNv). Aside from programming, I love food, adventures and nature.
 
 <img align="right" alt="Meme of the year" src="https://i.imgur.com/v7eDXTh.gif" />
   
@@ -14,7 +14,7 @@ Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I a
 - 🤔 I’m looking for help with Reverse Engineering & Exploit Testing;
 - 💬 Have a question? Ask me anytime through Discord;
 - ⚡️ Fun-Fact about me: I began programming when I was 11 years old using Java, now my Minecraft plugins total over **900,000+** downloads;
-- 📫 How to reach me: pablo67340@gmail.com, or @vajoner on Discord;
+- 📫 How to reach me: pablo67340@gmail.com, or @Vajoner on Discord;
 - 📝[LinkedIn](https://www.linkedin.com/in/wilkinsonbryce/)
 
 **Languages and Tools:**  
@@ -41,7 +41,7 @@ Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I a
 <a href="https://discord.gg/v7D6pCm">
   <img align="left" alt="Absract Studios Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a href="https://twitter.com/bwilkinson69">
+<a href="https://x.com/bwilkinson69">
   <img align="left" alt="Bryce Wilkinson | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/wilkinsonbryce/">
@@ -61,8 +61,6 @@ Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I a
 </a>
 
 <br />
-
-<p> </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pablo67340&show_icons=true&hide_border=true&count_private=true" />
