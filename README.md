@@ -62,6 +62,6 @@ Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I a
 
 <br />
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; justify-content: flex-start;">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo67340&layout=compact" />
 </div>
