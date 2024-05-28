@@ -62,8 +62,10 @@ Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I a
 
 <br />
 
-<div>
+
+<!-- We have to use code tags here for now. GitHub is sanatizing too agressively. For some reason inline stying is harder to pull off, but still do-able with a code tag -->
+<code>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pablo67340&show_icons=true&hide_border=true&count_private=true" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo67340&layout=compact" />
-</div>
+</code>
 
