@@ -38,7 +38,7 @@ Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I a
 
 **Socials & Links:**
 
-<a href="https://app.open.name/manager?name=spacex.🚀" title="https://spacex.🚀">https://spacex.&#8203;🚀/</a>
+<a href="https://app.open.name/manager?name=spacex.🚀" title="https://spacex.🚀"></a>
 
 <a href="https://discord.gg/hebros">
   <img align="left" alt="Hebros Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
