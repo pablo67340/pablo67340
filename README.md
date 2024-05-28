@@ -38,11 +38,8 @@ Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I a
 
 **Socials & Links:**  
 
-<a href="https://discord.gg/v7D6pCm">
-  <img align="left" alt="Absract Studios Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://x.com/bwilkinson69">
-  <img align="left" alt="Bryce Wilkinson | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://discord.gg/hebros">
+  <img align="left" alt="Hebros Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/wilkinsonbryce/">
   <img align="left" alt="Bryces Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
