@@ -62,9 +62,11 @@ Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I a
 
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pablo67340&show_icons=true&hide_border=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo67340&layout=compact" />
-</a>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=pablo67340&show_icons=true&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo67340&layout=compact" />
+  </a>
+</div>
