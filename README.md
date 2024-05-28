@@ -38,24 +38,36 @@ Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I a
 
 **Socials & Links:**  
 
-<a href="https://discord.gg/hebros">
-  <code><img align="left" alt="Hebros Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></code>
-</a>
-<a href="https://www.linkedin.com/in/wilkinsonbryce/">
-  <code><img align="left" alt="Bryces Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></code>
-</a>
-<a href="https://www.instagram.com/bryce_wilkinson98/">
-  <code><img align="left" alt="Bryce's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></code>
-</a>
-<a href="https://www.reddit.com/user/pablo67340/">
-  <code><img align="left" alt="Bryce's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" /></code>
-</a>
-<a href="https://www.mc-market.org/members/3801/">
-  <code><img align="left" alt="Bryce's MC-Market" width="22px" src="https://bryces.site/projects/images/icons/mcm.png" /></code>
-</a>
-<a href="https://www.spigotmc.org/members/pablo67340.35244/">
-  <code><img align="left" alt="Bryce's Spigot" width="22px" src="https://bryces.site/projects/images/icons/spigot.png" /></code>
-</a>
+<code>
+  <a href="https://discord.gg/hebros">
+    <img align="left" alt="Hebros Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  </a>
+</code>
+<code>
+  <a href="https://www.linkedin.com/in/wilkinsonbryce/">
+    <img align="left" alt="Bryces Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+</code>
+<code>
+  <a href="https://www.instagram.com/bryce_wilkinson98/">
+    <img align="left" alt="Bryce's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+</code>
+<code>
+  <a href="https://www.reddit.com/user/pablo67340/">
+    <img align="left" alt="Bryce's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  </a>
+</code>
+<code>
+  <a href="https://www.mc-market.org/members/3801/">
+    <img align="left" alt="Bryce's MC-Market" width="22px" src="https://bryces.site/projects/images/icons/mcm.png" />
+  </a>
+</code>
+<code>
+  <a href="https://www.spigotmc.org/members/pablo67340.35244/">
+    <img align="left" alt="Bryce's Spigot" width="22px" src="https://bryces.site/projects/images/icons/spigot.png" />
+  </a>
+</code>
 
 <br />
 
