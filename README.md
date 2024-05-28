@@ -59,3 +59,10 @@ Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I a
 <a href="https://www.spigotmc.org/members/pablo67340.35244/">
   <img align="left" alt="Bryce's Spigot" width="22px" src="https://bryces.site/projects/images/icons/spigot.png" />
 </a>
+
+<br />
+
+<code style="display: flex; justify-content: flex-start;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo67340&layout=compact" />
+</code>
+
