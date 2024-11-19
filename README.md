@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, currently, I am a Senior Software Engineer at a Telecom Company called 🙍🏽‍♂️ [@Kloudville](https://kloudville.com/), 👨🏽‍💻 [@Portfolio](https://bryces.site/) & Console Modder [@Xbox360Hub](https://discord.gg/xWFJcNv). Aside from programming, I love food, adventures and nature.
+Hi, I'm Bryce Wilkinson, a Full Stack Developer 🚀 from Canada, 👨🏽‍💻 [@Portfolio](https://bryces.site/) & Console Modder [@Xbox360Hub](https://discord.gg/xWFJcNv). Aside from programming, I love food, adventures and nature.
 
 <img align="right" alt="Meme of the year" src="https://i.imgur.com/v7eDXTh.gif" />
   
